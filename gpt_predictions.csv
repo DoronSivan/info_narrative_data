@@ -1,0 +1,536 @@
+story_name,clause_num,predicted_clause,correct_gpt,correct_gpt_verified
+Shambaugh,2,when a stranger walked in,False,False
+Shambaugh,3,and asked if he could join me,False,False
+Shambaugh,6,and told him to back off.,False,False
+Shambaugh,7,and he stumbled back.,False,False
+Shambaugh,8,to leave us alone,True,True
+Shambaugh,9,he stumbled back a few steps,False,False
+Shambaugh,12,You might have a concussion.,False,False
+Dalphonso,3,used to visit us every summer.,False,False
+Dalphonso,4,used to visit us often,False,False
+Dalphonso,6,"Years later, Ron reached out to reconnect.",False,False
+Dalphonso,7,"But recently, my father decided to reach out to Ron.",False,False
+Dalphonso,8,"But recently, Ron reached out to my father.",False,False
+Dalphonso,12,that he had a strange dream about my father.,False,False
+Dalphonso,15,15. And Lenore was shocked because Ron and Mike hadn't spoken in years.,False,False
+Dalphonso,18,and he wanted to pay his respects.,False,False
+Schissel,7,he thought I wasn't taking it seriously enough,False,False
+Schissel,8,I disagreed with him about what to do.,False,False
+Schissel,10,He ignored me and kept talking about the rat.,False,False
+Schissel,14,"and in a flash, he grabbed it.",False,False
+Schissel,15,and swung it at me.,False,False
+Schissel,17,my mother screamed and rushed over to help me,False,False
+Boyscout,2,We were on a camping trip in the mountains.,False,False
+Boyscout,3,when I tripped over a tree root.,False,False
+Boyscout,5,when suddenly a strong gust of wind blew in from the ocean,False,False
+Boyscout,10,They thought I was just joking around.,False,False
+Boyscout,14,I was struggling to stay afloat.,False,False
+Boyscout,19,and swam towards me.,False,False
+Tarentino,3,He had just bought it a few months ago.,False,False
+Tarentino,4,I decided to take it for a quick ride around the block.,False,False
+Tarentino,5,I decided to take it for a quick ride around the block.,False,False
+Tarentino,6,"when suddenly, a car pulled out in front of us.",False,False
+Tarentino,7,and lost control of the motorcycle,False,False
+Tarentino,8,when I suddenly lost control of the bike,False,False
+Tarentino,9,and ended up on a side street instead,False,False
+Tarentino,13,I woke up in the hospital.,False,False
+Tarentino,14,in the hospital with my family around me,False,False
+Tarentino,18,"and they laughed and said, ""You're going to be okay.""",True,False
+Guyton,2,It was a dark and stormy night when it all began.,False,False
+Guyton,3,He went missing during a camping trip.,False,False
+Guyton,4,It was a tragic accident.,False,False
+Guyton,5,It was a hard time for our family.,False,False
+Guyton,6,He was always such a bright and cheerful boy.,False,False
+Guyton,8,I couldn't eat or sleep for weeks.,False,False
+Guyton,9,before I started feeling a little better.,False,False
+Guyton,10,None of them could find anything wrong with me.,True,True
+Guyton,13,"He said, ""Mama, don't worry.""",False,False
+Guyton,14,"He said, ""Mama, don't worry.""",False,False
+Guyton,16,"I said, ""Henry, is that really you?""",False,False
+Guyton,19,I woke up feeling different.,False,False
+Guyton,21,21. She'll tell you the same story.,False,False
+Guyton,22,but I found peace instead.,False,False
+Guyton,23,"But after that dream, I found peace.",False,False
+Guyton,25,I knew then that everything was going to be alright.,False,False
+Guyton,26,26. So I live my life without fear now.,True,False
+CI,2,It happened last week.,False,False
+CI,5,spread out on his lap as he read through the headlines,False,False
+CI,9,The chauffeur nodded and changed the route accordingly.,True,True
+CI,10,and Dad went up to the door and rang the bell,False,False
+CI,14,Dad showed him the newspaper article.,False,False
+CI,15,Dad showed George the newspaper article.,True,False
+CI,16,"so it must be true.""",False,False
+CI,17,"and bring it in to show you.""",False,False
+CI,18,So Dad went back to the car to retrieve the newspaper.,False,False
+CI,19,and retrieved the newspaper.,True,True
+CI,20,and brought it back inside.,True,True
+CI,21,and showed it to George.,False,False
+CI,22,They found the obituary section.,False,False
+CI,26,"He showed it to the family, puzzled by the absence of the notice.",False,False
+CI,27,"Still, there was no mention of the death notice.",True,True
+Williams,3,It was a chilly autumn evening when it all began.,False,False
+Williams,6,He went to the market to buy the peaches,False,False
+Williams,7,They talked for a bit on the porch.,False,False
+Williams,9,and they decided to have a drink together,False,False
+Williams,10,Bill decided to have a drink with Martin.,False,False
+Williams,11,and they decided to have a drink together,False,False
+Williams,17,An' she gave him a good scoldin' for it.,False,False
+Williams,18,An' he was drunk as a skunk.,False,False
+Williams,20,"20. And everyone laughed, knowing it was all in good fun.",False,False
+Williams,21,21. And they both started laughing.,False,False
+Williams,25,and walked away without looking back,False,False
+Williams,27,and ran away from the scene,False,False
+Williams,28,and disappeared from sight,False,False
+Laidlaw,2,and closed his eyes,False,False
+Laidlaw,3,and closed his eyes,False,False
+Laidlaw,5,"The sun streamed through the window, casting warm patterns on the floor",False,False
+Laidlaw,7,and returned with a small package.,False,False
+Laidlaw,8,but she had forgotten her purse at home.,False,False
+Laidlaw,14,but he was not sitting in it,False,False
+Laidlaw,15,"She looked around the garden, puzzled.",False,False
+Laidlaw,16,She assumed he had gone inside to cool off.,False,False
+Laidlaw,21,and hung it neatly on the coat rack,False,False
+Laidlaw,22,and went to check on him.,False,False
+Laidlaw,23,and went to check on him.,False,False
+Laidlaw,25,and carried it into the living room.,False,False
+Laidlaw,29,and she screamed for help,False,False
+DAlmaggio,3,when I noticed someone familiar walking in.,False,False
+DAlmaggio,6,I walked over to see what was going on,False,False
+DAlmaggio,7,I walked over to the table.,False,False
+DAlmaggio,8,The kid looked embarrassed and apologized.,False,False
+DAlmaggio,10,and starts talking to her again.,False,False
+DAlmaggio,11,and I decided to have a word with him.,True,True
+DAlmaggio,12,"I said, ""Hey, can we talk for a minute?""",False,False
+DAlmaggio,13,"I said, ""Lonnie, you need to leave my wife alone.""",False,False
+DAlmaggio,14,"""Leave my wife alone.""",False,False
+DAlmaggio,15,"I say ""Leave my wife alone.""",False,False
+DAlmaggio,17,"He looks at me, surprised.",False,False
+DAlmaggio,18,He backed off and went back to the band.,False,False
+DAlmaggio,20,So I walk back over to him.,False,False
+DAlmaggio,21,I followed him into the bathroom.,True,True
+DAlmaggio,26,"Now I'm gonna teach you a lesson.""",False,False
+DAlmaggio,27,"Now I'm gonna teach you a lesson.""",False,False
+DAlmaggio,28,I grabbed him by the collar.,False,False
+DAlmaggio,30,"I say ""Yeah, really.""",False,False
+Triplett,8,But others around me did.,False,False
+Triplett,9,a sharp tongue and a condescending attitude,False,False
+Triplett,10,They were unusually large and awkward.,False,False
+Triplett,11,And she wore shoes that were too small for her.,False,False
+Triplett,12,and they were always in the way.,False,False
+Triplett,14,He was furious and demanded to know what was going on.,False,False
+Triplett,18,"We searched the whole town for hours,",False,False
+Triplett,20,We started searching the places she might have gone.,False,False
+Triplett,22,"and found her sitting on a rock, crying.",False,False
+Triplett,23,"We searched for hours, calling her name.",False,False
+Triplett,28,The Doc and I decided to keep an eye on her from then on.,False,False
+Triplett,29,So I packed my things and left town.,True,True
+Triplett,30,I left town the very next morning.,False,False
+Triplett,31,and left town the next morning.,True,True
+Triplett,32,I left town quickly.,False,False
+Hawkins,2,It happened on a foggy night.,False,False
+Hawkins,4,he was hit by one of the first automobiles that came through.,False,False
+Hawkins,7,The son was driving the car that hit him.,False,False
+Hawkins,8,and he lost control of the vehicle.,False,False
+Hawkins,9,And they didn't see the man crossing the street.,False,False
+Hawkins,11,and they didn't make the turn.,True,True
+Hawkins,13,and crashed into a tree.,False,False
+Hawkins,15,and he died instantly,True,True
+Hawkins,18,And that's how the first car accident fatality happened in this town.,False,False
+Hawkins,19,but that's what happened.,False,False
+Hawkins,20,But that's what happened back then.,False,False
+Hawkins,23,he went to see what had happened.,False,False
+Hawkins,27,So we went out there in the buckboard.,True,True
+Hawkins,32,and I remember the sound of his shoes tapping against the wood as we drove.,False,False
+Hawkins,34,and I was scared to death.,True,False
+McCaffrey,3,The sun was shining brightly.,False,False
+McCaffrey,4,The streets were quiet and empty.,False,False
+McCaffrey,7,I grabbed my coffee and headed out the door,False,False
+McCaffrey,10,something felt different.,False,False
+McCaffrey,11,and my back was still sore from the fall,False,False
+McCaffrey,12,and I was still feeling the pain from that fall.,False,False
+McCaffrey,13,I was still feeling the pain from that fall.,False,False
+McCaffrey,14,It was still bothering me that morning.,False,False
+McCaffrey,15,It was still bothering me that morning.,False,False
+McCaffrey,17,She had something else on her mind.,False,False
+McCaffrey,24,He was perfectly healthy.,True,False
+McCaffrey,27,"But then, suddenly, he wasn't.",False,False
+McCaffrey,31,I couldn't believe it.,False,False
+McCaffrey,32,I couldn't believe it.,False,False
+McCaffrey,34,I couldn't believe it.,False,False
+McCaffrey,35,I couldn't believe it.,True,False
+McCaffrey,37,I couldn't believe it.,False,False
+McCaffrey,38,I couldn't believe it.,False,False
+Furlow,3,I always end up in these situations.,False,False
+Furlow,4,They owed money to some dangerous people,False,False
+Furlow,5,"They started arguing with each other, and I tried to calm them down.",False,False
+Furlow,6,I couldn't just stand by and let that happen.,False,False
+Furlow,8,and had no idea what was about to happen,False,False
+Furlow,9,I couldn't just stand by and let it happen.,False,False
+Furlow,15,when the brothers started following us.,False,False
+Furlow,16,and that's when they caught up with us.,False,False
+Furlow,17,They started yelling and threatening us.,False,False
+Furlow,18,I knew there was no backing down.,False,False
+Furlow,19,I knew there was no backing down.,False,False
+Furlow,20,and told her to stay back.,True,False
+Furlow,22,It was a knife.,False,False
+Furlow,23,It turned out to be a knife.,False,False
+Furlow,30,An' Larry jumped back just in time.,False,False
+Furlow,31,"I stumbled back, clutching my stomach.",False,False
+Furlow,32,and he staggered back.,False,False
+Furlow,34,on the ground wrestling with him,False,False
+Furlow,35,when the guy with the knife lunged at me again,False,False
+Furlow,36,"An' my cousin fell to the ground, gasping for air.",True,True
+Furlow,37,I rushed over to help him.,False,False
+Furlow,40,to help Larry who was bleeding badly,False,False
+Hester,5,when I heard a strange noise coming from the woods,False,False
+Hester,6,She had been bedridden due to a severe illness,True,False
+Hester,9,and the boy had gone to town for supplies,False,False
+Hester,12,"I hesitated for a moment, unsure if I should believe it.",False,False
+Hester,13,There wasn't anybody there.,True,True
+Hester,14,"But the voice was so clear, I couldn't ignore it.",False,False
+Hester,15,of the cornfield where the gum bush was.,False,False
+Hester,17,It said the same thing.,False,False
+Hester,18,I still didn't see anyone.,True,True
+Hester,19,and I felt a strange urge to listen to it,False,False
+Hester,21,And I felt a strong urge to listen to that voice.,False,False
+Hester,22,that voice spoke to me a third time.,False,False
+Hester,23,It said the same thing as before.,False,False
+Hester,25,and I felt a chill run down my spine,False,False
+Hester,26,I didn't see anything unusual.,False,False
+Hester,27,27. And I started feeling a little uneasy.,False,False
+Hester,30,So I decided to pray right there in the barn.,False,False
+Hester,33,But I never thought of myself as wicked.,False,False
+Hester,35,and knelt down to pray,False,False
+Hester,37,"But if you can hear me, please help my mother.",False,False
+Hester,39,And I stayed there on my knees for a while.,False,False
+Hester,40,and went back to the house.,False,False
+Hester,41,Then I heard a noise from the direction of the house.,False,False
+Hester,43,So I dropped my hoe and started running towards the house.,False,False
+Hester,45,So I started walking towards the house.,False,False
+Hester,48,I couldn't believe my eyes.,True,False
+Hester,50,and she never had another one like it again.,False,False
+Hester,51,around the yard by herself.,False,False
+Hester,52,And she never had to be carried again.,False,False
+Hester,54,And she was able to do things for herself again.,False,False
+Adamo,7,He nodded and watched me work for a while.,False,False
+Adamo,9,"He smiled and said, ""That's a lovely idea.""",False,False
+Adamo,12,and he looked at me with a puzzled expression.,False,False
+Adamo,15,"in from work, looking tired.",False,False
+Adamo,17,and he laughed at my teasing.,False,False
+Adamo,18,"18. I laughed and said, ""Oh, you know I'm just joking!""",False,False
+Adamo,19,"I don't want to hear about it anymore.""",False,False
+Adamo,20,"He laughed and said, ""Alright, alright, I won't mention it again.""",False,False
+Adamo,21,I didn't understand what he meant at the time.,False,False
+Adamo,26,"I thought it was unusual, but I didn't think much of it at the time.",False,False
+Adamo,28,and I realized something was wrong.,False,False
+Adamo,30,I touched his hand and it was cold.,False,False
+Adamo,31,"and when I woke up in the morning, I realized something was wrong.",False,False
+Adamo,32,I woke up the next morning and realized something was wrong.,False,False
+Adamo,33,I was afraid to disturb him.,False,False
+Adamo,34,and I touched his hand,False,False
+Adamo,35,I touched his hand.,False,False
+Adamo,36,I touched his shoulder gently.,False,False
+Adamo,37,and I started to feel uneasy.,False,False
+Adamo,38,and I realized something was wrong.,False,False
+Adamo,40,and I finally realized he wasn't breathing,False,False
+Adamo,42,I realized he was gone.,False,False
+Adamo,43,I went over and touched him.,False,False
+Adamo,44,I realized he was gone.,False,False
+Adamo,45,and I started to worry.,False,False
+Adamo,46,but he was still cold.,False,False
+Adamo,47,and I finally realized he was gone,False,False
+Adamo,48,and I realized he was gone for good,False,False
+Adamo,50,and I cried and cried.,False,False
+Adamo,51,and I realized he was gone for good,False,False
+Adamo,52,"I started to cry, realizing the truth.",False,False
+Adamo,54,"""I'll be there in the morning.""",False,False
+Adamo,59,They came over to see what was going on.,False,False
+Adamo,60,They checked on him and confirmed he had passed away.,False,False
+Adamo,63,So I was still recovering from that.,False,False
+Stein,2,we found a cozy little apartment there,False,False
+Stein,4,and it caused a lot of problems for our family,False,False
+Stein,6,my father sat down in his favorite chair.,False,False
+Stein,7,I stayed behind to help unpack the boxes,False,False
+Stein,8,My mother started to worry as the hours passed.,False,False
+Stein,11,I tried to keep them entertained.,False,False
+Stein,13,I was terrified and didn't know what to do.,False,False
+Stein,14,I grabbed the kids and tried to find a safe place.,False,False
+Stein,15,I was terrified and didn't know what to do.,False,False
+Stein,16,I'll go see what's happening.,False,False
+Stein,18,and bring her back quickly.,False,False
+Stein,20,and scared.,False,False
+Stein,21,I tried to calm them down before leaving.,False,False
+Stein,25,I ran down the street calling for my mother,False,False
+Stein,32,And I hoped to find her there among the vendors.,False,False
+Stein,33,I hoped to find her there quickly.,False,False
+Stein,36,she looked at me with shock and concern,False,False
+Stein,38,He stopped and asked if everything was alright,False,False
+Stein,39,the policeman stopped to ask if everything was alright,False,False
+Stein,40,So I tried to explain to him about the stones and the house.,False,False
+Stein,42,You should consider moving somewhere safer.,False,False
+Stein,44,so you need to be careful.,False,False
+Stein,49,He used another word.,False,False
+Stein,50,And my mother looked worried.,False,False
+Stein,51,"What are you going to do about it?""",False,False
+Stein,52,He just shrugged his shoulders and walked away.,True,False
+Stein,53,He shrugged his shoulders and walked away.,False,False
+Stein,56,He told her the address.,False,False
+Stein,57,And she decided to go there to file a complaint.,False,False
+Stein,58,But my mother decided to go there and speak to someone in charge.,False,False
+Stein,59,when she asked him if she could speak to someone in charge.,False,False
+Stein,61,And she took my hand and we started walking towards the precinct.,False,False
+Stein,69,"He looked at her and said, ""There's not much we can do.""",False,False
+Stein,73,"And I said, ""No, I didn't see anyone.""",True,True
+Stein,75,My mother was frustrated but determined to find a solution.,False,False
+Stein,82,And the captain just shrugged his shoulders.,False,False
+Stein,83,"""You can at least increase patrols in the area.""",False,False
+Stein,84,"And she said, ""You can at least increase patrols in the area to ensure our safety.""",False,False
+Stein,85,"He looked at her for a moment, then nodded.",False,False
+Stein,86,"She said ""Yes, take me and my children home safely.""",False,False
+Stein,88,So they agreed to take us back in the police wagon.,False,False
+Stein,89,So they agreed to take us back in the police wagon.,True,True
+Stein,90,and drove us back to our house.,True,True
+Stein,93,"clang of the bell, it drew quite a bit of attention.",False,False
+Stein,97,And they were all staring at us as we got out of the patrol wagon.,False,False
+Stein,98,and he was the one who had thrown the stone.,False,False
+Stein,99,and opened the door for us to get out.,True,True
+Stein,100,And we stepped out of the patrol wagon.,False,False
+Stein,102,"and my mother stood tall, looking at the gathered crowd.",False,False
+Stein,103,"to the officer and said, ""Thank you for bringing us home.""",False,False
+Stein,104,"and she said, ""I am not afraid of you.""",False,False
+Stein,106,but I am a human being just like you.,True,True
+Stein,108,"She paused for a moment, looking at each of them in turn.",False,False
+Stein,109,and she wasn't going to be intimidated into leaving.,False,False
+Stein,110,and she asked them why they couldn't just let her live in peace.,False,False
+Stein,111,And she asked them to give her a chance to prove that they could be good neighbors.,False,False
+Stein,112,And she asked them to give her a chance to prove that they could be good neighbors.,False,False
+Stein,119,But I hope you understand that we are not here to cause trouble.,False,False
+Stein,122,"And if you have any decency, you'll leave us in peace.""",False,False
+Stein,123,"And with that, she turned and walked back into the house.",False,False
+Stein,124,But they did stop throwing stones.,False,False
+Stein,127,They brought food and helped us with chores.,False,False
+Stein,129,"And despite the rocky start, we eventually found a sense of community.",False,False
+Knott,5,when his family came to clear out his belongings.,False,False
+Knott,6,and his family came to sort out his belongings,False,False
+Knott,9,and they had a couple of young children,False,False
+Knott,14,So I went over and introduced myself.,True,True
+Knott,19,and there was a bit of tension in the air.,False,False
+Knott,20,had a bit of a falling out with Allen.,False,False
+Knott,22,but then they had a big argument.,False,False
+Knott,23,and it caused a bit of a row between us.,False,False
+Knott,25,And she came over to talk to me about it.,False,False
+Knott,27,an' started shoutin' at me.,False,False
+Knott,30,A' just went out there and started shoutin' back.,False,False
+Knott,31,A' just went out there an' started shoutin' back.,False,False
+Knott,32,A' went out there an' started shoutin' back.,False,False
+Knott,36,an' threw the dishes over the fence.,False,False
+Knott,40,"a'll kill ye.""",False,False
+Knott,49,and he tripped over something.,False,False
+Knott,52,started shouting at my son.,False,False
+Knott,55,an' a' confronted the lad.,False,False
+Knott,57,"the lad who threatened my son, his brother, and two of their friends.",False,False
+Knott,58,and her brother,False,False
+Knott,61,An' they all looked at me as if they were expectin' somethin'.,False,False
+Knott,62,An' a' walked right up to them.,False,False
+Knott,65,She started shouting at me again.,False,False
+Knott,67,But she jumped back just in time.,False,False
+Knott,70,An' a' was shoutin' at the top o' me voice.,False,False
+Knott,77,"an' a' need some backup.""",False,False
+Knott,79,An' we went back doon the street together.,False,False
+Knott,80,So we all went back down the street together.,False,False
+Knott,84,"A' says ""Right, let's settle this once and for all!""",False,False
+Knott,91,an' they started fightin'.,False,False
+Knott,92,An' we started fightin' again.,False,False
+Knott,93,An' we all ended up laughin' about it later.,False,False
+Knott,94,An' they started shoutin' an' hollerin'.,False,False
+Knott,97,An' the neighbors were watchin' from their windows.,False,False
+Knott,105,"""an' we'll sort it out once an' for all.""",False,False
+Knott,109,But a' never went on one wi' them.,False,False
+Knott,113,They said they wanted to make amends.,False,False
+Knott,114,and asked if we could put the past behind us.,False,False
+Knott,115,"A' says ""Well, a' never expected to be asked.""",False,False
+Knott,120,A' thought about it for a moment.,False,False
+Knott,122,"So she says, ""Well, if you ever change your mind, just let us know.""",False,False
+Knott,123,"But eventually, things started to change.",False,False
+Knott,126,Gas started leaking into the room.,False,False
+Knott,127,A' had to call the gas company immediately.,False,False
+Knott,128,an' a' shouted for help,False,False
+Knott,130,"A' shouted for help, but nobody could hear me.",False,False
+Knott,131,"A' shouted for help, hoping someone would hear me.",False,False
+Knott,135,"She says ""Hang on, a'll get someone to help ye!""",False,False
+Knott,136,an' turned the gas off for us.,True,True
+Knott,138,an' we had a good laugh about it.,False,False
+Knott,139,and we had a cup of tea together.,False,False
+Knott,141,"We started talking again, just like old times.",False,False
+Knott,143,It was a shock to everyone.,False,False
+Knott,147,"A' mean, y' can't let people walk all over ye, can ye?",False,False
+Knott,149,So that's why a' stood up for meself.,False,False
+Norman,2,They have been influencing the market trends significantly.,False,False
+Norman,3,and I've seen a lot of changes over the years,False,False
+Norman,4,and I still think about her every day,False,False
+Norman,5,She was the flower girl in that wedding.,False,False
+Norman,7,she had just gotten married when the accident happened,False,False
+Norman,9,and there were complications after the surgery,False,False
+Norman,11,She didn't survive the infection.,False,False
+Norman,13,It was a devastating loss for our family.,False,False
+Norman,16,and she looks just like her mother.,False,False
+Norman,17,She became like a daughter to me.,False,False
+Norman,19,We struggled financially after her death.,False,False
+Norman,20,We struggled financially after her death.,False,False
+Norman,23,and devastated by the sudden loss.,False,False
+Norman,24,I had to find a way to support her daughter.,False,False
+Norman,28,I explained the situation to her.,False,False
+Norman,29,and that's where I met her.,False,False
+Norman,31,And Mrs. Levin was a regular there.,False,False
+Norman,33,And Mrs. Levin was a regular there.,True,True
+Norman,35,and we became quite friendly,False,False
+Norman,36,So I decided to reach out to her for help.,False,False
+Norman,37,So I decided to reach out to her for help.,False,False
+Norman,38,So I decided to reach out to her for help.,False,False
+Norman,41,and I need your help with my sister's funeral arrangements.,False,False
+Norman,42,and asked if there was any way they could help us with the funeral arrangements.,False,False
+Norman,45,to give her a proper burial.,False,False
+Norman,48,I was hoping you could help me out.,False,False
+Norman,50,Mr. Levin listened to my plea with understanding.,False,False
+Norman,51,I'll give you the best price I can.,False,False
+Norman,52,a simple funeral for the least amount possible.,False,False
+Norman,53,I was shocked because I didn't know how I was going to come up with that amount.,False,False
+Norman,54,"I was relieved to hear that, but I still had to figure out how to come up with the money.",False,False
+Norman,58,I need to calm down and think about who I can ask for help.,False,False
+Norman,64,and see if he can help us with the money.,False,False
+Norman,66,He was always in the same dirty apron.,False,False
+Norman,68,But he was known to lend money to people in need.,False,False
+Norman,75,But he knew it was necessary.,False,False
+Norman,77,So he went to see Harry Pressger.,False,False
+Norman,78,and I was worried she might faint again if I left her alone,False,False
+Norman,79,So he went to see Harry Pressger.,False,False
+Norman,81,So he went to the store and explained our situation to Harry.,True,True
+Norman,82,and explained our situation to him.,False,False
+Norman,84,and then he explained our situation.,False,False
+Norman,85,It's about Rose's sister who just passed away.,False,False
+Norman,88,My husband explained the situation to him.,False,False
+Norman,90,So my husband explained the situation to him.,False,False
+Norman,92,So he explained the situation to Harry Pressger.,False,False
+Norman,93,and he explained the situation to Harry.,False,False
+Norman,94,So he explained the situation to Harry.,False,False
+Norman,96,So my husband explained the situation to him.,True,True
+Norman,97,and asks if he can lend us five hundred dollars.,True,True
+Norman,98,Harry listened carefully and nodded.,False,False
+Norman,99,"""That's terrible, Farmer,"" Harry exclaimed.",False,False
+Norman,102,He reached into his pocket and pulled out a wad of bills.,False,False
+Norman,103,and pulled out a wad of bills.,False,False
+Norman,104,and he peeled off five hundred dollars without hesitation,False,False
+Norman,106,and tell Rose not to worry about paying it back anytime soon.,False,False
+Norman,108,Tell her not to worry about paying it back right away.,False,False
+Norman,110,And my husband came back with the money in his hand.,True,True
+Norman,112,and tell him we have the money for the funeral.,True,True
+Norman,117,I explained the situation to the members.,False,False
+Norman,119,I explained the situation to the members.,False,False
+Norman,121,But I had to find a way to repay Harry Pressger.,False,False
+Norman,122,and we were barely making ends meet.,False,False
+Norman,123,to help my mother with her fainting spells.,False,False
+Norman,124,But we were still short on funds.,False,False
+Norman,125,but we had to repay the debt.,False,False
+Norman,129,"""I need help to repay the $500 that I borrowed to bury my sister.""",False,False
+Norman,131,I need to repay him as soon as possible.,False,False
+Norman,133,and I need your help to repay it.,False,False
+Norman,135,So I'm asking if the corporation can help me repay this loan.,False,False
+Norman,136,as soon as possible.,False,False
+Norman,139,but I promise to repay every cent as soon as I am able.,False,False
+Norman,142,I just need some time to get back on my feet.,False,False
+Norman,143,I just need some time to get back on my feet.,True,False
+Norman,144,But I promise to do my best to repay every cent.,False,False
+Norman,145,So I asked them to consider my request seriously.,False,False
+Norman,147,The room fell silent as the members of the corporation considered my request.,False,False
+Norman,148,They discussed among themselves.,True,False
+Norman,150,They discussed among themselves for a while.,False,False
+Norman,153,The president stood up and addressed the group.,False,False
+Norman,154,The president of the corporation stood up.,False,False
+Norman,157,"157. The president stood up and said, ""Rose, we've discussed your situation.""",False,False
+Norman,158,"And they said, ""Rose, we've decided to help you.""",False,False
+Norman,159,"and he says ""Rose, we have decided to help you.""",False,False
+Norman,162,but we have decided to help you.,False,False
+Norman,164,and we have decided to pay back Harry Pressger the $500 on your behalf.,True,True
+Costa,2,since she started working here.,False,False
+Costa,4,She had been ill for a long time.,False,False
+Costa,6,She seemed to be recovering well at first.,False,False
+Costa,10,Victoria sat down beside her mother.,False,False
+Costa,11,"Victoria sat by her bedside, holding her hand.",False,False
+Costa,13,"The nurse replied, ""It's for helping patients sit up and move around.""",False,False
+Costa,14,14. Victoria was surprised because her mother seemed too weak.,True,False
+Costa,15,"The nurse replied, ""It's hospital policy to get patients moving as soon as possible.""",False,False
+Costa,16,The nurse insisted it was necessary to help her recover.,False,False
+Costa,21,but she never regained consciousness.,False,False
+Costa,24,They said she was ready to be discharged.,False,False
+Costa,25,I had to wait by the neighbor's phone.,False,False
+Costa,28,She's ready to come home now.,True,True
+Costa,29,So I hurried to the hospital to get her.,False,False
+Costa,31,getting ready to leave.,False,False
+Costa,32,I gotta go get Marie.,False,False
+Costa,36,I went to the hospital to pick her up.,False,False
+Costa,38,It's like a ritual for me now.,False,False
+Costa,41,"I hurried out the door, eager to bring her home.",False,False
+Costa,42,So I hurried out the door and headed to the hospital.,False,False
+Costa,44,Marie was still weak from the surgery.,False,False
+Costa,47,I remember I had to wear a scarf.,False,False
+Costa,49,I walked to the hospital to pick her up.,False,False
+Costa,50,She waved at me.,False,False
+Costa,52,She was so happy to be going home.,False,False
+Costa,54,So I made sure to pack it in the bag.,False,False
+Costa,55,So I hurried over to the hospital.,False,False
+Costa,57,I knew something was wrong.,False,False
+Costa,60,And then the nurse came back with a solemn look on her face.,False,False
+Costa,62,"She said, ""We need these for another patient.""",False,False
+Costa,63,and I started to worry.,False,False
+Costa,67,The nurse looked at me with concern.,False,False
+Costa,68,"I rushed into the room, my heart pounding.",False,False
+Costa,69,and I saw her lying there.,False,False
+Costa,71,And she was so pale.,False,False
+Costa,72,her forehead.,False,False
+Costa,75,And I couldn't stop crying.,False,False
+Costa,76,and tried to calm me down.,False,False
+Costa,77,He tried to calm me down.,False,False
+Costa,78,She tried to calm me down.,False,False
+Costa,79,She tried to calm me down.,False,False
+Costa,86,"86. And she says ""Just talk to her, she might hear you.""",False,False
+Costa,90,And I couldn't believe what was happening.,False,False
+Costa,93,I couldn't believe it happened so suddenly.,False,False
+Costa,95,And I had to tell him the news.,False,False
+Costa,97,I didn't know how to tell them.,False,False
+Costa,99,And I didn't know how to tell them.,False,False
+Costa,101,And they didn't know what to tell him.,False,False
+Costa,105,And then the phone rang again.,False,False
+Costa,106,And I couldn't bear to tell them what happened.,False,False
+Costa,114,I was out of my mind with grief.,False,False
+Costa,115,side and tried to calm me down.,False,False
+Costa,117,They tried to calm me down.,False,False
+Costa,118,"They tried to calm me down, but I couldn't stop crying.",False,False
+Costa,119,"""Take it easy,"" they said.",False,False
+Costa,120,I was beside myself with grief.,False,False
+Costa,126,Rita started crying.,False,False
+Costa,128,"And Rita just broke down, crying uncontrollably.",False,False
+Costa,136,And she never got over it.,False,False
+Costa,137,And she has to stay in bed during those times.,True,False
+Costa,138,And she has to take medication for it.,False,False
+Costa,139,She was her best friend.,False,False
+Costa,141,And then she collapsed.,False,False
+Costa,142,And they rushed to help her.,False,False
+Costa,144,I don't want youse to do anything to her.,False,False
+Costa,145,"I was screaming and crying, demanding answers.",False,False
+Costa,146,I was out of my mind with grief.,False,False
+Costa,147,I was out of my mind with grief and anger.,False,False
+Costa,150,I was out of my mind with grief.,False,False
+Costa,152,I couldn't believe she was gone.,False,False
+Costa,166,They were trying to calm everyone down.,False,False
+Costa,167,They were all in shock.,False,False
+Costa,169,We'll bring the orange for her.,False,False
+Costa,171,And they all came over to the house to be with us.,False,False
+Costa,172,He came over right away.,False,False
+Costa,178,He ran over to tell them what happened.,False,False
+Costa,179,And they all came over to the house.,False,False
+Costa,180,And they all came over to the house.,False,False
+Costa,182,"But instead, he brought the news of her passing.",False,False
+Costa,183,"He says, ""No, Marie's not coming home.""",False,False
+Costa,187,They couldn't believe it.,False,False
+Costa,188,They couldn't believe it.,False,False
+Costa,190,She was always smiling.,False,False
